@@ -10,6 +10,8 @@
 
 # http://146.185.134.219/${URL}
 
+#### ex
+http://146.185.134.219/https://c2.staticflickr.com/2/1520/24330829813_944c817720_b.jpg
 
 
 ### Contribute
